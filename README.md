@@ -1,17 +1,23 @@
-### Hi there 👋
+# Davit Jincharadze
 
-<!---
-**zidhartha/zidhartha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📧 **Email:** davitjincharadze@gmail.com  
+📍 **Location:** Tbilisi, Georgia  
+🔗 **GitHub:** [github.com/davitjincharadze](https://github.com/davitjincharadze)  
+🔗 **LinkedIn:** [linkedin.com/in/davitjincharadze](https://linkedin.com/in/davitjincharadze)
 
-Here are some ideas to get you started:
---->
+---
 
-- 🔭 I’m currently working on myself.
-- 🌱 I’m currently learning java and Ocaml.
-- 👯 I’m looking to collaborate on anything that can make me better at Back-end.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything not related about cs.
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am quite literally Miyamoto Musashi.
+## 💻 Technical Skills
+
+- **Programming Language:** Python (Proficient; experience with frameworks such as Flask and Django)  
+- **Databases:** MySQL, MongoDB  
+- **Version Control:** Git, GitHub  
+- **Service Architecture:** REST API  
+- **Additional Tools (Preferred):** Docker, Redis, RabbitMQ
+
+---
+
+## 🚀 About Me
+
+Enthusiastic and detail-oriented Python developer passionate about backend development, clean code, and scalable architectures. Always eager to learn new technologies and improve existing skills.
 
