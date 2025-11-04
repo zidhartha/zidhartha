@@ -1,23 +1,41 @@
-# Davit Jincharadze
+# 👋 Hi, I'm Davit Jincharadze
 
-📧 **Email:** davitjincharadze@gmail.com  
-📍 **Location:** Tbilisi, Georgia  
-🔗 **GitHub:** [github.com/davitjincharadze](https://github.com/davitjincharadze)  
-🔗 **LinkedIn:** [linkedin.com/in/davitjincharadze](https://linkedin.com/in/davitjincharadze)
+🎓 I'm a **Computer Science student** at **Kutaisi International University**  
+🏅 Recipient of the **National Scholarship**  
+📅 *Aug 2023 – May 2027* | Kutaisi, Georgia  
+
+
+
+## 🧰 Tech Stack
+
+**Languages & Frameworks:**  
+Python Java JavaScript/TypeScript React 
+
+**Databases:**  
+PostgreSQL  
+
+**Tools & Technologies:**  
+Spring Boot Spring MVC JPA Maven Git GitHub JUnit Mockito Power BI  
 
 ---
 
-## 💻 Technical Skills
 
-- **Programming Language:** Python (Proficient; experience with frameworks such as Flask and Django)  
-- **Databases:** MySQL, MongoDB  
-- **Version Control:** Git, GitHub  
-- **Service Architecture:** REST API  
-- **Additional Tools (Preferred):** Docker, Redis, RabbitMQ
+
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/davitjincharadze)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/zidhartha)  
+[![Email](https://img.shields.io/badge/Email-datojincharadze26%40gmail.com-red?logo=gmail&logoColor=white)](mailto:datojincharadze26@gmail.com)
 
 ---
 
-## 🚀 About Me
+## 📊 GitHub Stats
 
-Enthusiastic and detail-oriented Python developer passionate about backend development, clean code, and scalable architectures. Always eager to learn new technologies and improve existing skills.
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zidhartha&show_icons=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zidhartha&layout=compact&theme=radical" />
+</p>
 
+---
+
+⭐ *Thanks for visiting my profile! Always open to learning, building, and collaborating 🚀*
