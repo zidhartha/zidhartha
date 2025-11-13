@@ -15,7 +15,7 @@ Python Java JavaScript/TypeScript React
 PostgreSQL  
 
 **Tools & Technologies:**  
-Spring Boot Spring MVC JPA Maven Git GitHub JUnit Mockito Power BI  
+Spring Boot Spring MVC JPA Maven Git GitHub JUnit Mockito Django
 
 ---
 
