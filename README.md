@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Davit Jincharadze
 
 🎓 I'm a **Computer Science student** at **Kutaisi International University**  
-🏅 Recipient of the **National Scholarship**  
 📅 *Aug 2023 – May 2027* | Kutaisi, Georgia  
 
 
